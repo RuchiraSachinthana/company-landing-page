@@ -109,7 +109,7 @@
           <div class="row">
 
             <div class="col-md-3">
-              <div class="footer-site-info">2020 © <a href="https://www.youtube.com/watch?v=pdr4IzBpacI&t=34s" target="_blank">Top HTML & CSS Program </a></div>
+              <div class="footer-site-info">2021 © <a href="https://ruchiras.com" target="_blank"> RUCHIRA </a></div>
             </div>
 
             <div class="col-md-6">
