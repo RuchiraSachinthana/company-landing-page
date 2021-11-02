@@ -12,13 +12,13 @@
                 <h5 class="footer-title">Address</h5>
                 <div class="gem-contacts">
                   <div class="gem-contacts-item gem-contacts-address">Main Office :<br> Doon House, B-275(A), First floor
-                    Sector-57, Shushant Lok 3,
+                    Sector-57
                    Colombo, Sri Lanka
                   </div>
                   <div class="gem-contacts-item gem-contacts-phone"><i class="fa fa-phone" aria-hidden="true"></i> Phone: <a href="">+94-778072233</a></div>
 
                   <div class="gem-contacts-item gem-contacts-address mt-2">Reg. Office :<br> Doon House, D2/3,
-                    4th Floor, Chandra Tower, IDBI Bank Building,
+                    4th Floor, IDBI Bank Building,
                     MOnaragala, Sri Lanka.</div>
                   <div class="gem-contacts-item gem-contacts-phone"><i class="fa fa-phone" aria-hidden="true"></i> Phone: <a>+94-778072233</a></div>
 
@@ -117,7 +117,7 @@
                 <ul id="footer-menu" class="nav-menu styled clearfix inline-inside">
                   <li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="#">Support</a></li>
                   <li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="#">Contact Us</a></li>
-                  <li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="#">Disclaimer</a></li>
+                  <li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="#">Blog</a></li>
                   <li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="#">Add more</a></li>
                 </ul>
               </nav>
