@@ -19,14 +19,14 @@
 <div class="container col-xxl-8 px-4 py-5">
   <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
     <div class="col-10 col-sm-8 col-lg-6">
-      <img src="https://getbootstrap.com/docs/5.1/examples/heroes/bootstrap-themes.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+      <img src="https://cdn.dribbble.com/users/1040016/screenshots/15597808/media/a51fafa981c9de62661dc14a7e588f51.gif" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
     </div>
     <div class="col-lg-6">
-      <h1 class="display-5 fw-bold lh-1 mb-3">Responsive left-aligned hero with image</h1>
-      <p class="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+      <h1 class="display-5 fw-bold lh-1 mb-3">Welcome!</h1>
+      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias sed omnis sunt necessitatibus reiciendis, aut sint similique fugiat excepturi amet corrupti rerum? Aperiam quae facere voluptas hic vero, alias voluptates!</p>
       <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-        <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Primary</button>
-        <button type="button" class="btn btn-outline-secondary btn-lg px-4">Default</button>
+        <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Read more</button>
+        <button type="button" class="btn btn-outline-secondary btn-lg px-4">Login</button>
       </div>
     </div>
   </div>
@@ -175,7 +175,7 @@
             <h4 class="my-0 fw-normal">Free</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$0<small class="text-muted fw-light">/mo</small></h1>
+            <h1 class="card-title pricing-card-title">Rs.0<small class="text-muted fw-light">/mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>10 users included</li>
               <li>2 GB of storage</li>
@@ -192,7 +192,7 @@
             <h4 class="my-0 fw-normal">Pro</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$15<small class="text-muted fw-light">/mo</small></h1>
+            <h1 class="card-title pricing-card-title">Rs.15<small class="text-muted fw-light">/mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>20 users included</li>
               <li>10 GB of storage</li>
@@ -209,7 +209,7 @@
             <h4 class="my-0 fw-normal">Enterprise</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">$29<small class="text-muted fw-light">/mo</small></h1>
+            <h1 class="card-title pricing-card-title">Rs.29<small class="text-muted fw-light">/mo</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>30 users included</li>
               <li>15 GB of storage</li>

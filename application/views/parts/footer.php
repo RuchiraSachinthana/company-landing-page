@@ -11,16 +11,16 @@
               <div class="widget footer_widget">
                 <h5 class="footer-title">Address</h5>
                 <div class="gem-contacts">
-                  <div class="gem-contacts-item gem-contacts-address">Corporate Office :<br> Doon House, B-275(A), First floor
-                    Sector-57, Shushant Lok 3
-                    Near Hong Kong Bazzar, Gurugram Pin 122001, Haryana.
+                  <div class="gem-contacts-item gem-contacts-address">Main Office :<br> Doon House, B-275(A), First floor
+                    Sector-57, Shushant Lok 3,
+                   Colombo, Sri Lanka
                   </div>
-                  <div class="gem-contacts-item gem-contacts-phone"><i class="fa fa-phone" aria-hidden="true"></i> Phone: <a href="">+91-9122588799</a></div>
+                  <div class="gem-contacts-item gem-contacts-phone"><i class="fa fa-phone" aria-hidden="true"></i> Phone: <a href="">+94-778072233</a></div>
 
                   <div class="gem-contacts-item gem-contacts-address mt-2">Reg. Office :<br> Doon House, D2/3,
-                    4th Floor, Chandra Tower, IDBI Bank Building
-                    Dimna Road, Mango, Jamshedpur-831012, Jharkhand.</div>
-                  <div class="gem-contacts-item gem-contacts-phone"><i class="fa fa-phone" aria-hidden="true"></i> Phone: <a>+91 9122588799</a></div>
+                    4th Floor, Chandra Tower, IDBI Bank Building,
+                    MOnaragala, Sri Lanka.</div>
+                  <div class="gem-contacts-item gem-contacts-phone"><i class="fa fa-phone" aria-hidden="true"></i> Phone: <a>+94-778072233</a></div>
 
                 </div>
               </div>
@@ -38,25 +38,25 @@
                             <a href="#">Want to start Your Own Play School.
                             </a>
                           </div>
-                          <div class="gem-pp-posts-date">Call +91-9122588799</div>
+                          <div class="gem-pp-posts-date">Call +94-778072233</div>
                         </div>
                       </li>
                       <li class="clearfix gem-pp-posts">
                         <div class="gem-pp-posts-text">
                           <div class="gem-pp-posts-item">
-                            <a href="#">Now we are in Faridabad,Now we are in DaudNagar.
+                            <a href="#">Now we are on live, Visit for more details.
                             </a>
                           </div>
-                          <div class="gem-pp-posts-date">Call +91-9122588799, +91-9122588799</div>
+                          <div class="gem-pp-posts-date">Call +94-778072233</div>
                         </div>
                       </li>
                       <li class="clearfix gem-pp-posts">
                         <div class="gem-pp-posts-text">
                           <div class="gem-pp-posts-item">
-                            <a href="">Now we are in Ranchi, Admission open
+                            <a href="">Now we are on live, Admission open
                             </a>
                           </div>
-                          <div class="gem-pp-posts-date">Call +91-9122588799, +91-9122588799</div>
+                          <div class="gem-pp-posts-date">Call +94-778072233</div>
                         </div>
                       </li>
 
